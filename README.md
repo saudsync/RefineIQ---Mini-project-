@@ -34,7 +34,7 @@ This module use the following libraries:
   <tr>
     <td><img src="Music App Instagram Post_20250505_202133_0000.png" width=270 height=auto></td>
     <td><img src="Music App Instagram Post_20250505_202018_0000.png" width=270 height=auto></td>
-    <td><img src="screenshots/screenshot-1597998427057.jpg" width=270 height=auto></td>
+    <td><img src="Music App Instagram Post_20250505_201951_0000.png" width=270 height=auto></td>
   </tr>
  </table>
 
