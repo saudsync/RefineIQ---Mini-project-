@@ -13,7 +13,7 @@
 
 Download the App:
 
-- [Androidx](https://developer.android.com/jetpack/androidx)
+- [Apk](https://drive.google.com/file/d/14wmGvK3hvh-CoWG4I0gh6HdBi9oxnhwv/view?usp=drivesdk)
 
 
   
